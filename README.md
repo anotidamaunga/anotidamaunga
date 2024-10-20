@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @anotidamaunga
-- 👀 I’m interested in game development, web development, robotics and Artificial Intelligence.
-- 🌱 I’m currently learning python, java and C#
-- 💞️ I’m looking to collaborate on game development and app development.
-  
-- 😄 Pronouns: he/him
+- 👋 Hi, I’m @anotidamaunga an AAI(Applied Artificial Intelligence) student.
 
 
 <!---
