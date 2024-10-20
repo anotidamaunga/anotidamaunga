@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @anotidamaunga an AAI(Applied Artificial Intelligence) student.
+- Still kind of learning to program in java and would be happy for any corrections and help offered. 
 
 
 <!---
