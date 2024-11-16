@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @anotidamaunga an AAI(Applied Artificial Intelligence) student.
-- Still kind of learning to program in java and would be happy for any corrections and help offered.
-- Interested in fintech, robotics and AI(obviously)
+- 👋 Hi, I’m @anotidamaunga a university student.
+- Interested in fintech, robotics and AI.
 
 
 <!---
