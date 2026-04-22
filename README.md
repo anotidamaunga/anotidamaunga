@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anotidamaunga a university student.
-- Interested in cybersecurity and AI.
+- Interested in finance and AI.
 - currently studying applied artificial intelligence.
 
 
