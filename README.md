@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Desire 👋</h1>
 
-<h3 align="center">Applied AI student building ML / robotics / cybersecurity / finance projects from scratch</h3>
+<h3 align="center">Applied AI student building ML / robotics / cybersecurity / finance projects </h3>
 
 <p align="center">
   B.Sc. Applied Artificial Intelligence student · exploring reinforcement learning, control theory, explainable AI, and applied NLP.<br>
