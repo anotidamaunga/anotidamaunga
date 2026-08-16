@@ -23,34 +23,6 @@
 
 <br>
 
-<h3 align="center">🚀 Featured Projects</h3>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="#">ReinforcementDinoGame</a></b><br>
-      Reimplemented DeepMind's Atari-playing approach on Chrome Dino, using PPO instead of DQN — training loop and reward shaping built from scratch.<br>
-      <sub>Python · PPO · RL</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="#">Hlin-Drone-Defense-Simulation</a></b><br>
-      Educational control-theory sim of a counter-drone intercept system: an evasive threat drone vs. a protected-zone interceptor.<br>
-      <sub>Python · Control Theory</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="#">YTRagChatbot</a></b><br>
-      Multilingual RAG chatbot for querying YouTube video transcripts, built on Chroma + DeepSeek.<br>
-      <sub>Python · RAG · Chroma · DeepSeek</sub>
-    </td>
-    <td width="50%" valign="top">
-      <!-- add a 4th project here to balance the grid -->
-    </td>
-  </tr>
-</table>
-
-<br>
 
 <h3 align="center">📊 GitHub Stats</h3>
 
