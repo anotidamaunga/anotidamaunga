@@ -24,8 +24,3 @@
 <br>
 
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anotidamaunga&hide_border=true" height="165"/>
-</p>
